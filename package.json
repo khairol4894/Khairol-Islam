@@ -2,7 +2,7 @@
   "name": "ISLAMICK BOT",
   "version": "10.1.1",
   "description": "made by Khairol",
-  "main": "Khairol.js",
+  "main": "ullash.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
