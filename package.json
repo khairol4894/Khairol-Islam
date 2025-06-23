@@ -1,14 +1,14 @@
 {
   "name": "ISLAMICK BOT",
   "version": "10.1.1",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
-  "main": "Cyber.js",
+  "description": "made by Khairol",
+  "main": "Khairol.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
   },
   "scripts": {
-      "start": "node Ullash.js",
+      "start": "node Khairol.js",
       "login": "node login",
       "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
